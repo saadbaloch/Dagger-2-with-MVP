@@ -2,6 +2,10 @@
 
 This project is based on MVP (Model View Presenter). </br>
 User can login to the app and it fetches Movies data through retrofit and show the result in Scrollable Recycler View.</br>
+</br>
+</br>
+</br>
+![](https://i.imgur.com/5WLQno7.png)
 
 ## Dependency Injection
 For the dependency injection it uses Dagger 2.15.</br>
