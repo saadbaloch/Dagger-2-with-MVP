@@ -28,6 +28,10 @@ It comprises of two activities:</br>
 -One for login</br>
 -Second for recycler view(In which movies data is shown)</br>
 
+## Screens
+
+<img src="https://raw.githubusercontent.com/saadbaloch/Dagger-2-with-MVP/master/Screens/Screen%20Shot%202018-08-01%20at%204.33.09%20PM.png" width="200"/>  <img src="https://raw.githubusercontent.com/saadbaloch/Dagger-2-with-MVP/master/Screens/Screen%20Shot%202018-08-01%20at%204.32.46%20PM.png" width="200"/> 
+
 
 
 ## How to run a sample
